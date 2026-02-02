@@ -1,6 +1,6 @@
-#EXTENDED API - mango
+# EXTENDED API - mango
 
-The retaining functions in this file are all used in the global object "api" as api.now() as an example.
+## The retaining functions in this file are all used in the global object "api" as api.now() as an example.
 
 ```js
 /**
