@@ -1,4 +1,4 @@
-#ALL ITEMS IN BLOXD
+# ALL ITEMS IN BLOXD
 
 Wood Pickaxe
 Stone Pickaxe
