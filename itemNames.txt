@@ -1,4 +1,5 @@
-# ALL ITEMS IN BLOXD
+All the items in bloxd
+---------------
 
 Wood Pickaxe
 Stone Pickaxe
