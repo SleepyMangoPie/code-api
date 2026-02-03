@@ -1,3 +1,5 @@
+#ALL ITEMS IN BLOXD
+
 Wood Pickaxe
 Stone Pickaxe
 Iron Pickaxe
